@@ -1,3 +1,7 @@
+# Pastas para ignorar
+.idea/
+
+# Outras configurações
 # Compiled class file
 *.class
 
